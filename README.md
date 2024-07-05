@@ -17,16 +17,16 @@ numpy==1.21.5
 
 # citation
 @inproceedings{ijcai2023p674,
+
   title     = {Interpret ESG Rating's Impact on the Industrial Chain Using Graph Neural Networks},
+  
   author    = {Liu, Bin and He, Jiujun and Li, Ziyuan and Huang, Xiaoyang and Zhang, Xiang and Yin, Guosheng},
-  booktitle = {Proceedings of the Thirty-Second International Joint Conference on
-               Artificial Intelligence, {IJCAI-23}},
+  
+  booktitle = {Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, {IJCAI-23}},
+  
   publisher = {International Joint Conferences on Artificial Intelligence Organization},
-  editor    = {Edith Elkind},
+
   pages     = {6076--6084},
-  year      = {2023},
-  month     = {8},
-  note      = {AI for Good},
-  doi       = {10.24963/ijcai.2023/674},
-  url       = {https://doi.org/10.24963/ijcai.2023/674},
+  
+  year      = {2023}
 }
